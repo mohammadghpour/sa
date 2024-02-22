@@ -1,2 +1,2 @@
 # sa
-sa is a frist project directory on my github
+sa is a python open cv code library to image processing
